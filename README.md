@@ -1,48 +1,23 @@
-# ---------------------------------------------
-# 📊 Trading Shock Market Report — Power BI Dashboard
-# ---------------------------------------------
+<sub>
 
-# This Power BI dashboard provides a detailed analysis of 
-# stock market trends and trading shocks across different 
-# time periods and industry sectors.
+📊 <b>Trading Shock Market Report — Power BI Dashboard</b><br>
+This dashboard analyzes stock market trends and trading shocks, showing insights on volatility, trading volume, and sector performance.
 
-# ---------------------------------------------
-# 🔍 Key Insights
-# ---------------------------------------------
-# • Market Volatility Analysis – Shows daily, weekly, and monthly
-#   fluctuations in major stock indices to spot sudden market shifts.
-# • Trading Volume Trends – Detects spikes and drops that indicate
-#   potential trading shocks.
-# • Sector-Wise Performance – Compares sectors like Technology,
-#   Finance, Healthcare, and Energy for performance trends.
-# • Event Impact Visualization – Displays how global events or news
-#   affect market behaviour and investor sentiment.
-# • Interactive Filters – Users can explore by time range, company,
-#   or sector to gain deeper insights.
+🔍 <b>Highlights:</b><br>
+• Tracks daily, weekly, and monthly market fluctuations<br>
+• Detects sudden spikes and dips in trading volumes<br>
+• Compares performance across major sectors<br>
+• Visualizes how global events impact markets<br>
+• Offers interactive filters by time, sector, and company<br>
 
-# ---------------------------------------------
-# 🧠 Tools & Techniques
-# ---------------------------------------------
-# • Power BI – for creating visual dashboards and DAX calculations.
-# • Power Query – for cleaning, merging, and transforming datasets.
-# • Data Modeling – connecting stock price data, trading volumes,
-#   and sector information to support analysis.
+🧠 <b>Tools Used:</b><br>
+• Power BI for visuals and DAX measures<br>
+• Power Query for data cleaning and transformation<br>
+• Data modeling using linked stock and sector datasets<br>
 
-# ---------------------------------------------
-# 🎯 Project Purpose
-# ---------------------------------------------
-# The aim is to help investors, analysts, and policymakers 
-# understand trading shocks, identify volatility patterns, 
-# and make more data-driven investment decisions.
+🎯 <b>Goal:</b><br>
+To help users understand market shocks, identify volatility patterns, and make smarter investment decisions.<br>
 
-# ---------------------------------------------
-# 📁 Dashboard Features
-# ---------------------------------------------
-# • Dynamic slicers and drill-downs
-# • Custom KPIs for volatility and performance
-# • Trendlines and moving average visualizations
-# • Time-based anomaly detection and pattern tracking
+👨‍💻 <b>By:</b> Kushal Paresh Bhatt
 
-# ---------------------------------------------
-# 👨‍💻 Created by: Kushal Paresh Bhatt
-# ---------------------------------------------
+</sub>
